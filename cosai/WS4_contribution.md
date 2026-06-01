@@ -1,7 +1,7 @@
 # Operationalizing MCP-T9: a secure design pattern for restricting LLM judgment
 
 **Proposed augmentation to the T9 mitigation guidance in a future revision of the MCP Security paper.**
-Author: Rags Vasan · Status: draft for WS4 discussion · Companion spec: *The Totem/Kick/Architect Pattern* (v1.1)
+Author: Rags Srinivasan · Status: draft for WS4 discussion · Companion spec: *The Totem/Kick/Architect Pattern* (v1.1)
 
 > This is not a competing framework. It is proposed text for the gap the MCP paper already names
 > but leaves open: T9 states that LLM judgment should be restricted for security-critical decisions,
